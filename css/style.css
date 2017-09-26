@@ -1,0 +1,77 @@
+html {
+}
+
+body{
+	background-color: seagreen;
+	margin: 0;
+}
+
+header{
+	height: 20vh;
+	width: 100%;
+	background-color: whitesmoke;
+	border: 3px solid black;
+}
+
+.maincontent {
+	height: 80vh;
+	width: 100%;
+	background-color:;
+}
+
+.box {
+	height: 70vh;
+	width: 60%;
+	margin: auto;
+	border: 3px solid black;
+}
+
+.one {
+	background-color:red;
+}
+
+.two {
+	background-color:yellow;
+}
+
+.three {
+	background-color:blue;
+}
+
+.description {
+	font-family: 'Courgette', cursive;
+	font-size: 34px;
+}
+
+h1 {
+	line-height: 40px;
+}
+p {
+	margin: auto;
+	font-style: Georgia;
+	line-height: 1.9em;
+}
+
+.Mii {
+	margin-top: 50px;
+}
+
+img {
+	margin-left: 30px;
+	float: left;
+}
+
+h4 {
+	
+}
+
+footer {
+	height: 20vh;
+	width: 100%;
+	background-color: whitesmoke;
+	border: 3px solid black;
+}
+.words {
+	font-size: 30px;
+	font-weight: bold;
+}
